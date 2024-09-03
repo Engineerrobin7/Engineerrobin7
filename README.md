@@ -6,7 +6,7 @@
 ### <div align="center">I'm Robin Singh, a 1st year Btech CSE student  👨‍💻</div>  
   
 
-- 🌱 I’m currently learning Java and C  
+- 🌱 I’m currently learning C++  
   
 
 - ❓ Ask me about anything related to HTML , CSS , JS, MYSQL  and related technologies  
